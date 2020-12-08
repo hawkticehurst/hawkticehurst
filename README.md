@@ -10,4 +10,4 @@ I'm a software engineer deeply excited by the webs potential to create products 
 - ⚡ Fun fact: Before discovering software I spent 5 years as a filmmaker, where I...
   - Co-directed and produced content that has garnered 53+ million views,
   - Won a regional emmy, and
-  - Went [viral](https://www.youtube.com/watch?v=re5TqWQgWd4),
+  - Went [viral](https://www.youtube.com/watch?v=re5TqWQgWd4)
