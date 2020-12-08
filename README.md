@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, I'm Hawk.
+
+I'm a software engineer based in Seattle and deeply excited by the internet's potential to create products that beautiful, functional, and human.
+
+- 🔭 I’m currently working on [destucture.io](https://github.com/hawkticehurst/destructure-io), [Council Data Project](https://councildataproject.github.io/), and [sliderr](https://github.com/hawkticehurst/sliderr)
+- 🌱 I’m currently learning Svelte
+- 📫 How to reach me: [hawkticehurst@gmail.com](hawkticehurst@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Before software I spent 5 years as a filmmaker going [viral](https://www.youtube.com/watch?v=re5TqWQgWd4), co-directing/producing content that has garnered 53+ million views, and winning a regional emmy.
 
 <!--
 **hawkticehurst/hawkticehurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
