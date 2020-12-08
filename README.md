@@ -1,24 +1,13 @@
 # Hey, I'm Hawk.
 
-I'm a software engineer based in Seattle and deeply excited by the internet's potential to create products that beautiful, functional, and human.
+I'm a software engineer deeply excited by the webs potential to create products that beautiful, functional, and human.
 
-- 🔭 I’m currently working on [destucture.io](https://github.com/hawkticehurst/destructure-io) and the [Council Data Project](https://councildataproject.github.io/)
+- 🔭 I’m currently spending my free time working on [destucture.io](https://github.com/hawkticehurst/destructure-io) and the [Council Data Project](https://councildataproject.github.io/)
 - 🌱 I’m currently learning Svelte
+- 🤔 I’m currently thinking about the intersection of software and environmentalism
 - 📫 How to reach me: [hawkticehurst@gmail.com](mailto:hawkticehurst@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Before software I spent 5 years as a filmmaker going [viral](https://www.youtube.com/watch?v=re5TqWQgWd4), co-directing/producing content that has garnered 53+ million views, and winning a regional emmy.
-
-<!--
-**hawkticehurst/hawkticehurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Before software I spent 5 years as a filmmaker
+  - Going [viral](https://www.youtube.com/watch?v=re5TqWQgWd4),
+  - Co-directing/producing content that has garnered 53+ million views, and 
+  - Winning a regional emmy
