@@ -1,4 +1,6 @@
-### Hey, I'm Hawk.
+# Hey, I'm Hawk.
+
+---
 
 I'm a software engineer based in Seattle and deeply excited by the internet's potential to create products that beautiful, functional, and human.
 
