@@ -1,6 +1,6 @@
 # Hey, I'm Hawk.
 
-I'm a software engineer deeply excited by the web's potential to create products that beautiful, functional, and human.
+I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
 
 - My pronouns are He/Him 🕺
 - I’m currently spending my free time working on [destucture.io](https://github.com/hawkticehurst/destructure-io) and the [Council Data Project](https://councildataproject.github.io/) 🔭
