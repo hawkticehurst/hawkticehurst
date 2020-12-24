@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img src="assets/name.svg" alt="Hawk Ticehurst" />
-</h1>
+</div>
 
 ## Hey! 👋
 
