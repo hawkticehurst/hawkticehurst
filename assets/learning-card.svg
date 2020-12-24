@@ -8,7 +8,7 @@
           color: #fff;
           font-size: 1em;
           text-shadow: 0 0 1px #000;
-          border: 1px solid hsla(200, 98%, 55%, 0.314);
+          border: 2px solid hsla(200, 98%, 55%, 0.314);
           border-radius: 7px;
           padding: 1rem;
 					margin: 0;
