@@ -2,19 +2,9 @@
   <img src="assets/name.svg" alt="Hawk Ticehurst" />
 </div>
 
-## Hey! 👋
+## Hey there! 👋
 
 I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
-
-<!--
-- 🌱 I’m learning [Svelte](https://svelte.dev/) and Apple's motion graphics / compisiting software [Motion](https://www.apple.com/final-cut-pro/motion/)
-- ⚡️ Fun fact: Before discovering software I spent 5 years as a filmmaker, where I...
-  - Co-directed and produced a variety of [content](https://www.youtube.com/watch?v=JzYJceyyzdQ) that has garnered a combined 54+ million views,
-  - Had some of that content [featured](https://www.youtube.com/watch?v=_h1ooyyFkF0) on Last Week Tonight by John Oliver,
-  - Won a regional emmy for a short film, and
-  - Went [viral](https://www.youtube.com/watch?v=re5TqWQgWd4) 
-  -->
-
 
 <div align="center">
   <img src="assets/pronoun-card.svg" alt="Pronoun card" />
@@ -25,3 +15,12 @@ I'm a software engineer deeply excited by the web's potential to create products
   <img src="assets/learning-card.svg" alt="Learning card" />
   <img src="assets/fun-fact-card.svg" alt="Fun fact card" />
 </div>
+
+<!--
+- 🌱 I’m learning [Svelte](https://svelte.dev/) and Apple's motion graphics / compisiting software [Motion](https://www.apple.com/final-cut-pro/motion/)
+- ⚡️ Fun fact: Before discovering software I spent 5 years as a filmmaker, where I...
+  - Co-directed and produced a variety of [content](https://www.youtube.com/watch?v=JzYJceyyzdQ) that has garnered a combined 54+ million views,
+  - Had some of that content [featured](https://www.youtube.com/watch?v=_h1ooyyFkF0) on Last Week Tonight by John Oliver,
+  - Won a regional emmy for a short film, and
+  - Went [viral](https://www.youtube.com/watch?v=re5TqWQgWd4) 
+  -->
