@@ -7,6 +7,7 @@ I'm a software engineer deeply excited by the web's potential to create products
 - I’m currently thinking about the intersection of software and environmentalism 🤔
 - I’m currently learning [Svelte](https://svelte.dev/) and Apple's motion graphics / compisiting software [Motion](https://www.apple.com/final-cut-pro/motion/) 🌱
 - Fun fact: Before discovering software I spent 5 years as a filmmaker, where I...
-  - Co-directed and produced content that has garnered 53+ million views,
+  - Co-directed and produced content that has garnered 54+ million views,
+  - Had some of that that content [featured](https://www.youtube.com/watch?v=_h1ooyyFkF0) on Last Week Tonight by John Oliver,
   - Won a regional emmy, and
   - Went [viral](https://www.youtube.com/watch?v=re5TqWQgWd4)
