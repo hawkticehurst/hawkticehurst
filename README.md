@@ -1,4 +1,4 @@
-# Hey, I'm Hawk Ticehurst 👋
+# Hey, I'm Hawk 👋
 
 I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
 
