@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="#name">
-    <img id="name" src="assets/name.svg" alt="Hawk Ticehurst" />
+  <a href="#logo">
+    <img id="logo" src="assets/logo.svg" alt="Hawk Ticehurst logo." />
   </a>
 </div>
 
