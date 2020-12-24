@@ -1,19 +1,18 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .card {
+					display: flex;
+					align-items: center;
           color: #fff;
           font-size: 1em;
-          font-family: Arial;
           text-shadow: 0 0 1px #000;
           border: 1px solid hsla(200, 98%, 55%, 0.314);
           border-radius: 7px;
           padding: 1rem;
-					margin-top: 1rem;
-        }
-				h1 {
-				  font-family: 'Inter',
+					margin: 0;
+					font-family: 'Inter',
 					-apple-system,
 					BlinkMacSystemFont, 
 					'Segoe UI', 
@@ -25,23 +24,30 @@
 					'Droid Sans', 
 					'Helvetica Neue', 
 					sans-serif;
-				  margin: 0;
-				  font-size: 4em;
-				  font-weight: 900;
-				  letter-spacing: -.05em;
-				  text-align: center;
-				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
-				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
-				  background-size: 200%;
-				  background-clip: text;
-				  -webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
-				  -webkit-animation: gradientText 3s ease infinite;
-				  animation: gradientText 3s ease infinite;
+        }
+				.card-icon {
+					font-size: 60px;
+					margin: 0;
+					padding: 0 2rem 0 1rem;
+				}
+				li {
+					line-height: 180%;
 				}
 			</style>
       <div xmlns="http://www.w3.org/1999/xhtml" class="card">
-        <h3>⚡️ Fun Fact</h3>
+				<p class="card-icon">⚡️</p>
+        <div>
+          <h2>A Fun Fact</h2>
+          <p>Before discovering software I spent 5 years as a filmmaker. During that time I...</p>
+					<ul>
+						<li>Co-directed and produced a variety of content that has garnered a combined 54+ million views</li>
+						<ul>
+							<li>A series I co-directed was even featured on Last Week Tonight by John Oliver</li>
+						</ul>
+						<li>Won a regional emmy for a short film</li>
+						<li>Went viral</li>
+					</ul>
+        </div>
       </div>
 		</div>
 	</foreignObject>
