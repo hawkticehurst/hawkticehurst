@@ -9,7 +9,7 @@
 					background-color: #0d1117;
           font-size: 1em;
           text-shadow: 0 0 1px #000;
-          border: 2px solid hsla(208, 98%, 55%, 1);
+          border: 1px solid hsla(208, 98%, 55%, 1);
           border-radius: 7px;
           padding: 1rem;
 					margin: 0;
