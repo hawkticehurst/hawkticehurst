@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Hey there! 👋
+# Hey there! 👋
 
 I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
 
