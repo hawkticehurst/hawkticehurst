@@ -8,6 +8,8 @@
 
 ### I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
 
+<br/>
+
 <div align="center">
   <a href="#pronoun">
     <img id="pronoun" src="assets/pronoun-card.svg" alt="Pronoun card" />
