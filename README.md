@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  <a href="#pronoun">
+  <div>  
     <img id="pronoun" src="assets/pronoun-card.svg" alt="Pronoun card" />
-  </a>
+  </div>
   <a href="https://councildataproject.github.io/">
     <img src="assets/free-time-card.svg" alt="Free time card" />
   </a>
@@ -23,9 +23,9 @@
   <a href="#learning">
     <img id="learning" src="assets/learning-card.svg" alt="Learning card" />
   </a> -->
-  <a href="#fun-fact">
+  <div>
     <img id="fun-fact" src="assets/fun-fact-card.svg" alt="Fun fact card" />
-  </a>
+  </div>
 </div>
 
 <!--
