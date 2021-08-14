@@ -1,19 +1,19 @@
 <h4 align="center" style="font-weight: 700;">
-  <samp>Hey there, welcome to my Github! 👋🏼<samp>
+  <code>Hey there, welcome to my Github! 👋🏼<code>
 </h4>
 
 <br>
 
 <p align="center">
-  <samp>~~~</samp>
+  <code>~~~</code>
 </p>
 
 <p align="center">
-  <samp>I'm a Design Developer at <a href="https://github.com/microsoft">Microsoft</a> and open source <a href="https://councildataproject.org/">contributor</a>, with a <a href="https://www.cut.com/">past life</a> in filmmaking.</samp>
+  <code>I'm a Design Developer at <a href="https://github.com/microsoft">Microsoft</a> and open source <a href="https://councildataproject.org/">contributor</a>, with a <a href="https://www.cut.com/">past life</a> in filmmaking.</code>
 </p>
 
 <p align="center">
-  <samp>I thrive in environments where creative and technical worlds meet to create things that are beautiful, functional, and human.</samp>
+  <code>I thrive in environments where creative and technical worlds meet to create things that are beautiful, functional, and human.</code>
 </p>
 
 <p align="center">
@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  <samp>Check out my repos ↓ </samp>
+  <code>Check out my repos ↓ </code>
 </p>
