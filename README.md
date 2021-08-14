@@ -1,8 +1,6 @@
-<h4 align="center" style="font-weight: 700;">
+<p align="center" style="font-weight: 700;">
   <samp>Hey there, welcome to my Github! 👋🏼<samp>
-</h4>
-
-<br>
+</p>
 
 <p align="center">
   <samp>~~~</samp>
