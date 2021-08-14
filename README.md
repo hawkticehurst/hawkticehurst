@@ -1,31 +1,25 @@
-<div align="center">
-  <a href="#logo">
-    <img id="logo" src="assets/logo.svg" alt="Hawk Ticehurst logo." />
-  </a>
-</div>
+<h4 align="center" style="font-weight: 700;">
+  <samp>Hey there, welcome to my Github! 👋🏼<samp>
+</h4>
 
-# Hey there! 👋
+<br>
 
-### I'm a software engineer deeply excited by the web's potential to create products that are beautiful, functional, and human.
+<p align="center">
+  <samp>~~~</samp>
+</p>
 
-<br/>
+<p align="center">
+  <samp>I'm a Design Developer at <a href="https://github.com/microsoft">Microsoft</a> and open source <a href="https://councildataproject.org/">contributor</a>, with a <a href="https://www.cut.com/">past life</a> in filmmaking.</samp>
+</p>
 
-<div align="center">
-  <a href="#pronoun">  
-    <img id="pronoun" src="assets/pronoun-card.svg" alt="Pronoun card" />
-  </a>
-  <a href="https://councildataproject.github.io/">
-    <img src="assets/free-time-card.svg" alt="Free time card" />
-  </a>
-  <!--   
-  <a href="#thinking">
-    <img id="thinking" src="assets/thinking-card.svg" alt="Thinking card" />
-  </a>
-  <a href="#learning">
-    <img id="learning" src="assets/learning-card.svg" alt="Learning card" />
-  </a>
-  -->
-  <a href="#fun-fact">
-    <img id="fun-fact" src="assets/fun-fact-card.svg" alt="Fun fact card" />
-  </a>
-</div>
+<p align="center">
+  <samp>I thrive in environments where creative and technical worlds meet to create things that are beautiful, functional, and human.</samp>
+</p>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/69jtJ7EgteRXVpASSN/source.gif">
+</p>
+
+<p align="center">
+  <samp>Check out my repos ↓ </samp>
+</p>
