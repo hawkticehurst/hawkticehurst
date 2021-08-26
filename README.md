@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <samp>Check out my repos ↓ </samp>
+  <samp>Check out some of my work ↓ </samp>
 </p>
