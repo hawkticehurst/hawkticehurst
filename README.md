@@ -5,13 +5,9 @@
 <p align="center">
   <samp>~~~</samp>
 </p>
-
+    
 <p align="center">
-  <samp>I'm a Design Developer at <a href="https://github.com/microsoft">Microsoft</a> and open source <a href="https://councildataproject.org/">contributor</a>, with a <a href="https://www.cut.com/">past life</a> in filmmaking.</samp>
-</p>
-
-<p align="center">
-  <samp>I thrive in environments where creative and technical worlds meet to create things that are beautiful, functional, and human.</samp>
+  <samp>I'm a design developer in love with building tools that enable great UIs.</samp>
 </p>
 
 <p align="center">
