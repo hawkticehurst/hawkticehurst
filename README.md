@@ -7,7 +7,7 @@
 </p>
     
 <p align="center">
-  <samp>I'm a design developer in love with building tools that enable great UIs.</samp>
+  <samp>I'm a design developer in love with building great UIs and the tools that enable them.</samp>
 </p>
 
 <p align="center">
